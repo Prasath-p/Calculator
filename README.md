@@ -1,2 +1,3 @@
 # Calculator
-Made a calculator using javascript
+Made a calculator using Reactjs
+
